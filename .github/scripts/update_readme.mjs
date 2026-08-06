@@ -225,7 +225,7 @@ function generateLanguagesSvg(langMap, totalBytes) {
   </style>
   <rect x="1" y="1" width="818" height="168" rx="12" fill="url(#metricsBg)" stroke="#30363d" stroke-width="1.5" />
   
-  <text x="22" y="34" class="title">⚡ Real-Time Codebase & Language Distribution</text>
+  <text x="22" y="34" class="title">⚡ Real-Time Codebase and Language Distribution</text>
   
   <g clip-path="url(#barClip)">
     <rect x="20" y="52" width="780" height="14" fill="#21262d" />
