@@ -9,9 +9,20 @@
     </clipPath>
   </defs>
   <style>
+    @keyframes slide-in-bar {
+      from { transform: scaleX(0); }
+      to { transform: scaleX(1); }
+    }
+    @keyframes fade-in-legend {
+      from { opacity: 0; transform: translateY(5px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
     .title { font: 700 18px 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #ffffff; }
     .langName { font: 600 14px 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #c9d1d9; }
     .langPct { font: 400 14px 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #8b949e; }
+    
+    .bar-grow { transform-origin: left; animation: slide-in-bar 1.2s cubic-bezier(0.2, 0.8, 0.2, 1) both; }
+    .legend-fade { animation: fade-in-legend 0.8s ease-out both; }
   </style>
   <rect x="1" y="1" width="818" height="168" rx="12" fill="url(#metricsBg)" stroke="#30363d" stroke-width="1.5" />
   
@@ -19,34 +30,40 @@
   
   <g clip-path="url(#barClip)">
     <rect x="20" y="52" width="780" height="14" fill="#21262d" />
-    <rect x="20" y="52" width="371.64082050588235" height="14" fill="#4F5D95" />
-<rect x="391.64082050588235" y="52" width="160.52048961120855" height="14" fill="#3178c6" />
-<rect x="552.1613101170909" y="52" width="130.12986660594123" height="14" fill="#f1e05a" />
-<rect x="682.2911767230321" y="52" width="50.5381108586851" height="14" fill="#f7523f" />
-<rect x="732.8292875817172" y="52" width="33.52601416389145" height="14" fill="#563d7c" />
-<rect x="766.3553017456086" y="52" width="16.98982964871224" height="14" fill="#e34c26" />
+    <rect x="20" y="52" width="371.64082050588235" height="14" fill="#4F5D95" class="bar-grow" style="animation-delay: 0s;" />
+<rect x="391.64082050588235" y="52" width="160.52048961120855" height="14" fill="#3178c6" class="bar-grow" style="animation-delay: 0.1s;" />
+<rect x="552.1613101170909" y="52" width="130.12986660594123" height="14" fill="#f1e05a" class="bar-grow" style="animation-delay: 0.2s;" />
+<rect x="682.2911767230321" y="52" width="50.5381108586851" height="14" fill="#f7523f" class="bar-grow" style="animation-delay: 0.30000000000000004s;" />
+<rect x="732.8292875817172" y="52" width="33.52601416389145" height="14" fill="#563d7c" class="bar-grow" style="animation-delay: 0.4s;" />
+<rect x="766.3553017456086" y="52" width="16.98982964871224" height="14" fill="#e34c26" class="bar-grow" style="animation-delay: 0.5s;" />
 
   </g>
   
   <g>
     
-    <circle cx="30" cy="96" r="6" fill="#4F5D95" />
-    <text x="45" y="100" class="langName">PHP</text>
-    <text x="160" y="100" class="langPct">47.6%</text>
-    <circle cx="300" cy="96" r="6" fill="#3178c6" />
-    <text x="315" y="100" class="langName">TypeScript</text>
-    <text x="430" y="100" class="langPct">20.6%</text>
-    <circle cx="570" cy="96" r="6" fill="#f1e05a" />
-    <text x="585" y="100" class="langName">JavaScript</text>
-    <text x="700" y="100" class="langPct">16.7%</text>
-    <circle cx="30" cy="136" r="6" fill="#f7523f" />
-    <text x="45" y="140" class="langName">Blade</text>
-    <text x="160" y="140" class="langPct">6.5%</text>
-    <circle cx="300" cy="136" r="6" fill="#563d7c" />
-    <text x="315" y="140" class="langName">CSS</text>
-    <text x="430" y="140" class="langPct">4.3%</text>
-    <circle cx="570" cy="136" r="6" fill="#e34c26" />
-    <text x="585" y="140" class="langName">HTML</text>
-    <text x="700" y="140" class="langPct">2.2%</text>
+      <circle cx="25" cy="95" r="4" fill="#4F5D95" class="legend-fade" style="animation-delay: 0.5s;" />
+      <text x="35" y="100" class="langName legend-fade" style="animation-delay: 0.5s;">PHP</text>
+      <text x="120" y="100" class="langPct legend-fade" style="animation-delay: 0.5s;">47.6%</text>
+    
+      <circle cx="220" cy="95" r="4" fill="#3178c6" class="legend-fade" style="animation-delay: 0.6s;" />
+      <text x="230" y="100" class="langName legend-fade" style="animation-delay: 0.6s;">TypeScript</text>
+      <text x="315" y="100" class="langPct legend-fade" style="animation-delay: 0.6s;">20.6%</text>
+    
+      <circle cx="415" cy="95" r="4" fill="#f1e05a" class="legend-fade" style="animation-delay: 0.7s;" />
+      <text x="425" y="100" class="langName legend-fade" style="animation-delay: 0.7s;">JavaScript</text>
+      <text x="510" y="100" class="langPct legend-fade" style="animation-delay: 0.7s;">16.7%</text>
+    
+      <circle cx="610" cy="95" r="4" fill="#f7523f" class="legend-fade" style="animation-delay: 0.8s;" />
+      <text x="620" y="100" class="langName legend-fade" style="animation-delay: 0.8s;">Blade</text>
+      <text x="705" y="100" class="langPct legend-fade" style="animation-delay: 0.8s;">6.5%</text>
+    
+      <circle cx="25" cy="135" r="4" fill="#563d7c" class="legend-fade" style="animation-delay: 0.9s;" />
+      <text x="35" y="140" class="langName legend-fade" style="animation-delay: 0.9s;">CSS</text>
+      <text x="120" y="140" class="langPct legend-fade" style="animation-delay: 0.9s;">4.3%</text>
+    
+      <circle cx="220" cy="135" r="4" fill="#e34c26" class="legend-fade" style="animation-delay: 1s;" />
+      <text x="230" y="140" class="langName legend-fade" style="animation-delay: 1s;">HTML</text>
+      <text x="315" y="140" class="langPct legend-fade" style="animation-delay: 1s;">2.2%</text>
+    
   </g>
 </svg>

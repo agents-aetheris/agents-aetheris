@@ -6,27 +6,49 @@
     </linearGradient>
     <linearGradient id="borderGlow_2" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#58a6ff" />
-      <stop offset="100%" stop-color="#00e676" />
+      <stop offset="50%" stop-color="#00e676" />
+      <stop offset="100%" stop-color="#58a6ff" />
     </linearGradient>
   </defs>
   <style>
+    @keyframes pulse-dot {
+      0%, 100% { transform: scale(1); opacity: 1; }
+      50% { transform: scale(1.3); opacity: 0.6; }
+    }
+    @keyframes float-icon {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-3px); }
+    }
+    @keyframes dash-border {
+      to { stroke-dashoffset: -400; }
+    }
+    
     .title { font: 600 16px 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #58a6ff; }
     .desc { font: 400 13px 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #8b949e; }
     .meta { font: 500 12px 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #c9d1d9; }
     .date { font: 400 11px 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #6e7681; }
+    
+    .dot-anim { transform-origin: 26px 113px; animation: pulse-dot 2s infinite ease-in-out; animation-delay: 0.4s; }
+    .icon-anim { animation: float-icon 3s infinite ease-in-out; animation-delay: 0.4s; }
+    .border-anim { stroke-dasharray: 150 250; stroke-dashoffset: 0; animation: dash-border 6s linear infinite; }
   </style>
+  
   <rect x="1" y="1" width="408" height="133" rx="10" fill="url(#cardGlow_2)" stroke="#30363d" stroke-width="1.5" />
-  <path d="M 2 10 A 8 8 0 0 1 10 2 L 400 2 A 8 8 0 0 1 408 10 L 408 12 L 2 12 Z" fill="url(#borderGlow_2)" opacity="0.8" />
+  
+  <!-- Animated Border Dash -->
+  <rect x="1" y="1" width="408" height="133" rx="10" fill="none" stroke="url(#borderGlow_2)" stroke-width="1.5" class="border-anim" opacity="0.7" />
   
   <!-- Repo Icon -->
-  <path fill="none" stroke="#58a6ff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="M 22 36 L 27 31 L 34 31 L 34 43 L 22 43 Z" />
+  <g class="icon-anim">
+    <path fill="none" stroke="#58a6ff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="M 22 36 L 27 31 L 34 31 L 34 43 L 22 43 Z" />
+  </g>
   
   <text x="42" y="40" class="title">nusaplay</text>
   
-  <text x="22" y="68" class="desc">https://nusaplay.web.id</text>
+  <text x="22" y="68" class="desc">No description provided.</text>
+  <text x="22" y="86" class="desc"></text>
   
-  
-  <circle cx="26" cy="113" r="5" fill="#3178c6" />
+  <circle cx="26" cy="113" r="5" fill="#3178c6" class="dot-anim" />
   <text x="36" y="117" class="meta">TypeScript</text>
   
   <text x="110" y="117" class="meta">★ 0</text>
