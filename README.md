@@ -1,8 +1,8 @@
 <div align="center">
 
   <h1>✨ Muhana Naufal ✨</h1>
-  <h3>⚡ Backend Developer & Cloud Infrastructure Architect ⚡</h3>
-  <p><em>3x Consecutive Google Cloud JuaraGCP Winner (Seasons 10, 11, & 12) • Rust, Golang, NestJS & Laravel Specialist</em></p>
+  <h3>Backend Developer & Tech Enthusiast</h3>
+  <p><em>Rust, Golang, NestJS, Laravel</em></p>
 
   <p>
     <img src="https://img.shields.io/badge/Google_Cloud-JuaraGCP_3x_Winner-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="JuaraGCP 3x" />
@@ -27,7 +27,6 @@
 </div>
 
 ### ⚡ Quick Profile Credentials
-*(Click the copy button on the top-right corner to copy all credentials instantaneously)*
 ```text
 Name       : Muhana Naufal
 Pronouns   : He/Him
@@ -118,11 +117,3 @@ Ready to scale your backend or engineer resilient cloud systems? Connect directl
   <a href="https://muhananaufal.my.id/"><img src="https://img.shields.io/badge/Portfolio-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website" /></a>
   <a href="https://www.instagram.com/_muhananaufal_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
-
-```text
-Email    : muhananaufal8@gmail.com
-LinkedIn : https://www.linkedin.com/in/muhana-naufal/
-GitHub   : https://github.com/muhananaufal
-Website  : https://muhananaufal.my.id/
-Instagram: https://www.instagram.com/_muhananaufal_
-```
