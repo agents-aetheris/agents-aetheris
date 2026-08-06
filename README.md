@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Muhana Naufal • Backend Engineer</h1>
+  <img src="./assets/header-banner.svg?v=2" width="100%" alt="Muhana Naufal Banner" />
 
   <p>
     <img src="https://img.shields.io/badge/Google_Cloud-JuaraGCP_3x_Winner-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="JuaraGCP 3x" />
