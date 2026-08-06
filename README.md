@@ -1,8 +1,6 @@
 <div align="center">
 
-  <h1>✨ Muhana Naufal ✨</h1>
-  <h3>Backend Developer & Tech Enthusiast</h3>
-  <p><em>Rust, Golang, NestJS, Laravel</em></p>
+  <h1>Muhana Naufal • Backend Engineer</h1>
 
   <p>
     <img src="https://img.shields.io/badge/Google_Cloud-JuaraGCP_3x_Winner-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="JuaraGCP 3x" />
