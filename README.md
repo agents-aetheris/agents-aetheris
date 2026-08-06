@@ -106,8 +106,6 @@ I am deeply passionate about modern Backend Engineering and Cloud Architecture. 
 </div>
 
 ### 🌐 Let's Build Something Revolutionary
-Ready to scale your backend or engineer resilient cloud systems? Connect directly or copy the contact links below:
-
 <p align="center">
   <a href="mailto:muhananaufal8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/muhana-naufal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
