@@ -22,25 +22,15 @@ Deeply passionate about Backend Engineering and Cloud Architecture. Proven hands
 ---
 
 ### 🚀 Latest Updated Projects
-*(Automatically updated via GitHub Actions automation)*
+*(Dynamically rendered from GitHub repository activity via automation)*
 
 <!-- START_SECTION:latest_projects -->
-<p align="left">
-  <a href="https://github.com/muhananaufal/agents-aetheris">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhananaufal&repo=agents-aetheris&theme=transparent&hide_border=true" alt="agents-aetheris" />
-  </a>
-  <a href="https://github.com/muhananaufal/thriftify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhananaufal&repo=thriftify&theme=transparent&hide_border=true" alt="thriftify" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://github.com/muhananaufal/nusaplay">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhananaufal&repo=nusaplay&theme=transparent&hide_border=true" alt="nusaplay" />
-  </a>
-  <a href="https://github.com/muhananaufal/obsidian-rag">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhananaufal&repo=obsidian-rag&theme=transparent&hide_border=true" alt="obsidian-rag" />
-  </a>
-</p>
+| Repository & Direct Link | Primary Tech | Overview & Scope | Last Active |
+| :--- | :---: | :--- | :---: |
+| **[agents-aetheris](https://github.com/muhananaufal/agents-aetheris)** | `PowerShell` | *Core engineering and system codebase* | Aug 2026 |
+| **[thriftify](https://github.com/muhananaufal/thriftify)** | `Blade` | The final project for AMCC 2024 members, which prioritizes teamwork and ... | Aug 2026 |
+| **[nusaplay](https://github.com/muhananaufal/nusaplay)** | `TypeScript` | https://nusaplay.web.id | Jul 2026 |
+| **[obsidian-rag](https://github.com/muhananaufal/obsidian-rag)** | `Python` | *Core engineering and system codebase* | May 2026 |
 <!-- END_SECTION:latest_projects -->
 
 ---
@@ -52,11 +42,18 @@ Deeply passionate about Backend Engineering and Cloud Architecture. Proven hands
 ---
 
 ### 📊 Language & Activity Metrics
-*(Live statistics generated dynamically from public repository activity)*
+*(Live distribution calculated across all public repositories)*
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhananaufal&layout=compact&theme=transparent&hide_border=true&card_width=450" alt="Top Languages" />
-</p>
+<!-- START_SECTION:language_stats -->
+```text
+PHP        │ ██████████░░░░░░░░░░░░ │  47.6%
+TypeScript │ █████░░░░░░░░░░░░░░░░░ │  20.6%
+JavaScript │ ████░░░░░░░░░░░░░░░░░░ │  16.7%
+Blade      │ █░░░░░░░░░░░░░░░░░░░░░ │   6.5%
+CSS        │ █░░░░░░░░░░░░░░░░░░░░░ │   4.3%
+HTML       │ ░░░░░░░░░░░░░░░░░░░░░░ │   2.2%
+```
+<!-- END_SECTION:language_stats -->
 
 ---
 
