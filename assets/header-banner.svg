@@ -1,0 +1,56 @@
+<svg width="820" height="200" viewBox="0 0 820 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#010409" />
+    </linearGradient>
+    <linearGradient id="textGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#58a6ff" />
+      <stop offset="100%" stop-color="#00e676" />
+    </linearGradient>
+  </defs>
+  <style>
+    @keyframes typing {
+      from { width: 0 }
+      to { width: 440px }
+    }
+    @keyframes blink-caret {
+      from, to { border-color: transparent }
+      50% { border-color: #00e676 }
+    }
+    @keyframes gridMove {
+      from { transform: translateY(0); }
+      to { transform: translateY(20px); }
+    }
+    .grid { stroke: #30363d; stroke-width: 1; opacity: 0.3; }
+    
+    .name { font: 800 42px 'Inter', -apple-system, sans-serif; fill: url(#textGlow); letter-spacing: 1px; }
+    
+    .typewriter-wrapper {
+      transform: translate(22px, 120px);
+    }
+    .typewriter-text {
+      font: 500 18px 'Fira Code', 'Courier New', monospace;
+      fill: #8b949e;
+    }
+  </style>
+  
+  <!-- Background -->
+  <rect width="820" height="200" rx="15" fill="url(#bgGlow)" stroke="#30363d" stroke-width="2" />
+  
+  <!-- Animated Cyber Grid -->
+  <g class="grid">
+    <path d="M 0 20 L 820 20 M 0 40 L 820 40 M 0 60 L 820 60 M 0 80 L 820 80 M 0 100 L 820 100 M 0 120 L 820 120 M 0 140 L 820 140 M 0 160 L 820 160 M 0 180 L 820 180" />
+    <path d="M 100 0 L 100 200 M 200 0 L 200 200 M 300 0 L 300 200 M 400 0 L 400 200 M 500 0 L 500 200 M 600 0 L 600 200 M 700 0 L 700 200" />
+  </g>
+  
+  <!-- Content -->
+  <text x="22" y="80" class="name">MUHANA NAUFAL</text>
+  
+  <!-- CSS Typewriter effect using foreignObject for standard CSS widths -->
+  <foreignObject x="22" y="100" width="700" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: 'Fira Code', 'Courier New', monospace; font-size: 18px; color: #8b949e; display: inline-block; overflow: hidden; white-space: nowrap; border-right: 3px solid #00e676; animation: typing 3.5s steps(40, end), blink-caret .75s step-end infinite;">
+      > Backend Developer &amp; Cloud Architect_
+    </div>
+  </foreignObject>
+</svg>
