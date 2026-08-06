@@ -2,7 +2,8 @@
 
   <img src="./assets/header-banner.svg?v=2" width="100%" alt="Muhana Naufal Banner" />
   <br />
-  
+  <br />
+  <br />
   <p>
     <img src="https://img.shields.io/badge/Google_Cloud-JuaraGCP_3x_Winner-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="JuaraGCP 3x" />
     <img src="https://img.shields.io/badge/Architecture-Cloud_Native-00e676?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Cloud Native" />
