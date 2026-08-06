@@ -1,7 +1,8 @@
 <div align="center">
 
   <img src="./assets/header-banner.svg?v=2" width="100%" alt="Muhana Naufal Banner" />
-
+  <br />
+  
   <p>
     <img src="https://img.shields.io/badge/Google_Cloud-JuaraGCP_3x_Winner-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="JuaraGCP 3x" />
     <img src="https://img.shields.io/badge/Architecture-Cloud_Native-00e676?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Cloud Native" />
@@ -24,7 +25,7 @@
 
 </div>
 
-### ⚡ Quick Profile Credentials
+### Quick Profile
 ```text
 Name       : Muhana Naufal
 Pronouns   : He/Him
@@ -39,7 +40,7 @@ Location   : Indonesia
   <br />
 </div>
 
-### 🎯 Engineering Genesis & Core Competency
+### Core Competency
 > **"Architecting scalable APIs, high-throughput backend systems, and resilient cloud infrastructures."**
 
 I am deeply passionate about modern Backend Engineering and Cloud Architecture. With robust hands-on experience across the entire software development lifecycle, I specialize in engineering resilient multi-tenant architectures, integrating high-performance machine learning pipelines, and deploying distributed system topologies using **NestJS, Laravel, Golang, and Rust**. Recognized nationwide as a **3-time consecutive champion of Google Cloud's JuaraGCP**, I actively transform complex computing challenges into reliable, zero-downtime production solutions.
@@ -50,8 +51,7 @@ I am deeply passionate about modern Backend Engineering and Cloud Architecture. 
   <br />
 </div>
 
-### 🚀 Latest Automated Activity & Repository Showcase
-*(Crafted via 100% DIY custom SVG rendering automations powered by GitHub Actions)*
+### Latest Activity
 
 <!-- START_SECTION:latest_projects -->
 <p align="center">
@@ -70,7 +70,7 @@ I am deeply passionate about modern Backend Engineering and Cloud Architecture. 
   <br />
 </div>
 
-### 🏛️ Organizations & Ecosystems
+### Organization Ecosystems
 <table>
   <tr>
     <td width="50%" align="left" valign="top">
@@ -90,9 +90,7 @@ I am deeply passionate about modern Backend Engineering and Cloud Architecture. 
   <br />
 </div>
 
-### 📊 Comprehensive Codebase Metrics
-*(Computed continuously from real GitHub commits and repository byte distribution)*
-
+### Codebase Metrics
 <!-- START_SECTION:language_stats -->
 <p align="center">
   <img src="./assets/language-stats.svg?v=1786004298668" width="820" alt="Language Metrics" />
@@ -105,7 +103,7 @@ I am deeply passionate about modern Backend Engineering and Cloud Architecture. 
   <br />
 </div>
 
-### 🌐 Let's Build Something Revolutionary
+### Let's Connect!
 <p align="center">
   <a href="mailto:muhananaufal8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/muhana-naufal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
