@@ -1,8 +1,19 @@
+<div align="center">
+  <h1>Hi there, I'm Muhana Naufal 👋</h1>
+  <p><strong>Backend Developer & Cloud Infrastructure Engineer</strong></p>
+  <p><em>3x Consecutive Google Cloud JuaraGCP Winner • Rust, Golang, NestJS & Laravel Specialist</em></p>
+</div>
+
+<br />
+
+### ⚡ Quick Profile Card
+*(Click the copy button on the upper right corner to copy all credentials at once)*
 ```text
-Muhana Naufal
-He/Him
-Backend Developer | Rust, Golang, NestJS, Laravel
-Indonesia
+Name       : Muhana Naufal
+Pronouns   : He/Him
+Role       : Backend Developer & System Architect
+Core Stack : Rust, Golang, NestJS, Laravel, PostgreSQL, Docker, AWS/GCP
+Location   : Indonesia
 ```
 
 ### ☕ About Me
@@ -11,6 +22,9 @@ Deeply passionate about Backend Engineering and Cloud Architecture. Proven hands
 ---
 
 ### 🚀 Latest Updated Projects
+*(Automatically updated via GitHub Actions automation)*
+
+<!-- START_SECTION:latest_projects -->
 <p align="left">
   <a href="https://github.com/muhananaufal/agents-aetheris">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhananaufal&repo=agents-aetheris&theme=transparent&hide_border=true" alt="agents-aetheris" />
@@ -27,17 +41,18 @@ Deeply passionate about Backend Engineering and Cloud Architecture. Proven hands
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhananaufal&repo=obsidian-rag&theme=transparent&hide_border=true" alt="obsidian-rag" />
   </a>
 </p>
+<!-- END_SECTION:latest_projects -->
 
 ---
 
-### 🏛️ Organizations
-- **[Kardia Health](https://github.com/kardia-health)** — *Building scalable healthcare technology systems and robust digital infrastructure.*
-- **[Selaras Health](https://github.com/selaras-health)** — *Developing collaborative digital solutions and health platform innovation.*
+### 🏛️ Organizations & Ecosystems
+- **[Kardia Health](https://github.com/kardia-health)** — *Building scalable healthcare technology systems and resilient digital health infrastructure.*
+- **[Selaras Health](https://github.com/selaras-health)** — *Developing innovative collaborative digital solutions and health platform ecosystems.*
 
 ---
 
-### 📊 Language & Code Statistics
-*(Data diperbarui secara otomatis dari seluruh aktivitas repositori)*
+### 📊 Language & Activity Metrics
+*(Live statistics generated dynamically from public repository activity)*
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhananaufal&layout=compact&theme=transparent&hide_border=true&card_width=450" alt="Top Languages" />
@@ -45,10 +60,10 @@ Deeply passionate about Backend Engineering and Cloud Architecture. Proven hands
 
 ---
 
-### 🌐 Get Connected
-Silakan salin kontak yang kamu butuhkan dengan tombol copy di sudut tiap kotak, atau klik langsung tautannya:
+### 🌐 Connect With Me
+Feel free to copy the credentials below using the copy button on each block, or visit the direct links:
 
-**Email** ([MailTo](mailto:muhananaufal8@gmail.com))
+**Email** ([Send an Email](mailto:muhananaufal8@gmail.com))
 ```text
 muhananaufal8@gmail.com
 ```
