@@ -48,8 +48,8 @@
   <text x="22" y="68" class="desc">No description provided.</text>
   <text x="22" y="86" class="desc"></text>
   
-  <circle cx="26" cy="113" r="5" fill="#8b949e" class="dot-anim" />
-  <text x="36" y="117" class="meta">Unknown</text>
+  <circle cx="26" cy="113" r="5" fill="#dea584" class="dot-anim" />
+  <text x="36" y="117" class="meta">Rust</text>
   
   <text x="110" y="117" class="meta">★ 0</text>
   <text x="388" y="117" text-anchor="end" class="date">Updated: Aug 2026</text>
