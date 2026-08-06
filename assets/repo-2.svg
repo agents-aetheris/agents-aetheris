@@ -1,0 +1,34 @@
+<svg width="410" height="135" viewBox="0 0 410 135" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardGlow_2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#161b22" />
+      <stop offset="100%" stop-color="#0d1117" />
+    </linearGradient>
+    <linearGradient id="borderGlow_2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff" />
+      <stop offset="100%" stop-color="#00e676" />
+    </linearGradient>
+  </defs>
+  <style>
+    .title { font: 600 16px 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #58a6ff; }
+    .desc { font: 400 13px 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #8b949e; }
+    .meta { font: 500 12px 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #c9d1d9; }
+    .date { font: 400 11px 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #6e7681; }
+  </style>
+  <rect x="1" y="1" width="408" height="133" rx="10" fill="url(#cardGlow_2)" stroke="#30363d" stroke-width="1.5" />
+  <path d="M 2 10 A 8 8 0 0 1 10 2 L 400 2 A 8 8 0 0 1 408 10 L 408 12 L 2 12 Z" fill="url(#borderGlow_2)" opacity="0.8" />
+  
+  <!-- Repo Icon -->
+  <path fill="none" stroke="#58a6ff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="M 22 36 L 27 31 L 34 31 L 34 43 L 22 43 Z" />
+  
+  <text x="42" y="40" class="title">nusaplay</text>
+  
+  <text x="22" y="68" class="desc">https://nusaplay.web.id</text>
+  
+  
+  <circle cx="26" cy="113" r="5" fill="#3178c6" />
+  <text x="36" y="117" class="meta">TypeScript</text>
+  
+  <text x="110" y="117" class="meta">★ 0</text>
+  <text x="388" y="117" text-anchor="end" class="date">Updated: Jul 2026</text>
+</svg>

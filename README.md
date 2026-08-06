@@ -1,86 +1,128 @@
 <div align="center">
-  <h1>Hi there, I'm Muhana Naufal 👋</h1>
-  <p><strong>Backend Developer & Cloud Infrastructure Engineer</strong></p>
-  <p><em>3x Consecutive Google Cloud JuaraGCP Winner • Rust, Golang, NestJS & Laravel Specialist</em></p>
+
+  <h1>✨ Muhana Naufal ✨</h1>
+  <h3>⚡ Backend Developer & Cloud Infrastructure Architect ⚡</h3>
+  <p><em>3x Consecutive Google Cloud JuaraGCP Winner (Seasons 10, 11, & 12) • Rust, Golang, NestJS & Laravel Specialist</em></p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Google_Cloud-JuaraGCP_3x_Winner-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="JuaraGCP 3x" />
+    <img src="https://img.shields.io/badge/Architecture-Cloud_Native-00e676?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Cloud Native" />
+    <img src="https://img.shields.io/badge/Focus-High_Performance_Backend-ff007f?style=for-the-badge&logo=speedtest&logoColor=white" alt="High Performance" />
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  </p>
+
+  <br />
+  <img src="./assets/divider.svg" width="100%" alt="divider" />
+  <br />
+
 </div>
 
-<br />
-
-### ⚡ Quick Profile Card
-*(Click the copy button on the upper right corner to copy all credentials at once)*
+### ⚡ Quick Profile Credentials
+*(Click the copy button on the top-right corner to copy all credentials instantaneously)*
 ```text
 Name       : Muhana Naufal
 Pronouns   : He/Him
-Role       : Backend Developer & System Architect
+Role       : Backend Developer & Cloud Infrastructure Engineer
 Core Stack : Rust, Golang, NestJS, Laravel, PostgreSQL, Docker, AWS/GCP
 Location   : Indonesia
 ```
 
-### ☕ About Me
-Deeply passionate about Backend Engineering and Cloud Architecture. Proven hands-on experience in building scalable APIs, integrating machine learning models, and managing database systems using NestJS, Laravel, Golang, and Rust. Adept at full software development lifecycles, from robust system design to seamless cloud deployment. Currently recognized as a 3-time consecutive winner of Google Cloud's JuaraGCP (Seasons 10, 11, and 12), eager to bring strong problem-solving skills to an innovative full-time role.
+<div align="center">
+  <br />
+  <img src="./assets/divider.svg" width="100%" alt="divider" />
+  <br />
+</div>
 
----
+### 🎯 Engineering Genesis & Core Competency
+> **"Architecting scalable APIs, high-throughput backend systems, and resilient cloud infrastructures."**
 
-### 🚀 Latest Updated Projects
-*(Dynamically rendered from GitHub repository activity via automation)*
+I am deeply passionate about modern Backend Engineering and Cloud Architecture. With robust hands-on experience across the entire software development lifecycle, I specialize in engineering resilient multi-tenant architectures, integrating high-performance machine learning pipelines, and deploying distributed system topologies using **NestJS, Laravel, Golang, and Rust**. Recognized nationwide as a **3-time consecutive champion of Google Cloud's JuaraGCP**, I actively transform complex computing challenges into reliable, zero-downtime production solutions.
+
+<div align="center">
+  <br />
+  <img src="./assets/divider.svg" width="100%" alt="divider" />
+  <br />
+</div>
+
+### 🚀 Latest Automated Activity & Repository Showcase
+*(Crafted via 100% DIY custom SVG rendering automations powered by GitHub Actions)*
 
 <!-- START_SECTION:latest_projects -->
-| Repository & Direct Link | Primary Tech | Overview & Scope | Last Active |
-| :--- | :---: | :--- | :---: |
-| **[agents-aetheris](https://github.com/muhananaufal/agents-aetheris)** | `PowerShell` | *Core engineering and system codebase* | Aug 2026 |
-| **[thriftify](https://github.com/muhananaufal/thriftify)** | `Blade` | The final project for AMCC 2024 members, which prioritizes teamwork and ... | Aug 2026 |
-| **[nusaplay](https://github.com/muhananaufal/nusaplay)** | `TypeScript` | https://nusaplay.web.id | Jul 2026 |
-| **[obsidian-rag](https://github.com/muhananaufal/obsidian-rag)** | `Python` | *Core engineering and system codebase* | May 2026 |
+<p align="center">
+  <a href="https://github.com/muhananaufal/agents-aetheris"><img src="./assets/repo-0.svg" width="410" alt="agents-aetheris" /></a>
+  <a href="https://github.com/muhananaufal/thriftify"><img src="./assets/repo-1.svg" width="410" alt="thriftify" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/muhananaufal/nusaplay"><img src="./assets/repo-2.svg" width="410" alt="nusaplay" /></a>
+  <a href="https://github.com/muhananaufal/obsidian-rag"><img src="./assets/repo-3.svg" width="410" alt="obsidian-rag" /></a>
+</p>
 <!-- END_SECTION:latest_projects -->
 
----
+<div align="center">
+  <br />
+  <img src="./assets/divider.svg" width="100%" alt="divider" />
+  <br />
+</div>
 
 ### 🏛️ Organizations & Ecosystems
-- **[Kardia Health](https://github.com/kardia-health)** — *Building scalable healthcare technology systems and resilient digital health infrastructure.*
-- **[Selaras Health](https://github.com/selaras-health)** — *Developing innovative collaborative digital solutions and health platform ecosystems.*
+<table>
+  <tr>
+    <td width="50%" align="left" valign="top">
+      <h4>🏥 <a href="https://github.com/kardia-health">Kardia Health</a></h4>
+      <p>Building resilient healthcare technology systems, enterprise medical infrastructures, and mission-critical health connectivity ecosystems.</p>
+    </td>
+    <td width="50%" align="left" valign="top">
+      <h4>🌿 <a href="https://github.com/selaras-health">Selaras Health</a></h4>
+      <p>Developing innovative digital wellness solutions, collaborative clinical workflows, and highly secure health data platforms.</p>
+    </td>
+  </tr>
+</table>
 
----
+<div align="center">
+  <br />
+  <img src="./assets/divider.svg" width="100%" alt="divider" />
+  <br />
+</div>
 
-### 📊 Language & Activity Metrics
-*(Live distribution calculated across all public repositories)*
+### 📊 Comprehensive Codebase Metrics
+*(Computed continuously from real GitHub commits and repository byte distribution)*
 
 <!-- START_SECTION:language_stats -->
-```text
-PHP        │ ██████████░░░░░░░░░░░░ │  47.6%
-TypeScript │ █████░░░░░░░░░░░░░░░░░ │  20.6%
-JavaScript │ ████░░░░░░░░░░░░░░░░░░ │  16.7%
-Blade      │ █░░░░░░░░░░░░░░░░░░░░░ │   6.5%
-CSS        │ █░░░░░░░░░░░░░░░░░░░░░ │   4.3%
-HTML       │ ░░░░░░░░░░░░░░░░░░░░░░ │   2.2%
-```
+<p align="center">
+  <img src="./assets/language-stats.svg" width="820" alt="Language Metrics" />
+</p>
 <!-- END_SECTION:language_stats -->
 
----
+<div align="center">
+  <br />
+  <img src="./assets/divider.svg" width="100%" alt="divider" />
+  <br />
+</div>
 
-### 🌐 Connect With Me
-Feel free to copy the credentials below using the copy button on each block, or visit the direct links:
+### 🌐 Let's Build Something Revolutionary
+Ready to scale your backend or engineer resilient cloud systems? Connect directly or copy the contact links below:
 
-**Email** ([Send an Email](mailto:muhananaufal8@gmail.com))
+<p align="center">
+  <a href="mailto:muhananaufal8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/muhana-naufal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/muhananaufal"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://muhananaufal.my.id/"><img src="https://img.shields.io/badge/Portfolio-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website" /></a>
+  <a href="https://www.instagram.com/_muhananaufal_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
 ```text
-muhananaufal8@gmail.com
-```
-
-**LinkedIn** ([Visit Profile](https://www.linkedin.com/in/muhana-naufal/))
-```text
-https://www.linkedin.com/in/muhana-naufal/
-```
-
-**GitHub** ([Visit Profile](https://github.com/muhananaufal))
-```text
-https://github.com/muhananaufal
-```
-
-**Personal Website** ([Visit Site](https://muhananaufal.my.id/))
-```text
-https://muhananaufal.my.id/
-```
-
-**Instagram** ([@_muhananaufal_](https://www.instagram.com/_muhananaufal_))
-```text
-@_muhananaufal_
+Email    : muhananaufal8@gmail.com
+LinkedIn : https://www.linkedin.com/in/muhana-naufal/
+GitHub   : https://github.com/muhananaufal
+Website  : https://muhananaufal.my.id/
+Instagram: https://www.instagram.com/_muhananaufal_
 ```
