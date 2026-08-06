@@ -264,10 +264,11 @@ async function main() {
     .filter(r => r.name.toLowerCase() !== USERNAME.toLowerCase() && !r.archived && !r.private)
     .slice(0, 4);
 
+  const cacheBuster = Date.now();
   let projectsMd = '<p align="center">\n';
   validRepos.forEach((repo, idx) => {
     const fileName = generateRepoSvg(repo, idx);
-    projectsMd += `  <a href="${repo.html_url}"><img src="./assets/${fileName}" width="410" alt="${escapeXml(repo.name)}" /></a>\n`;
+    projectsMd += `  <a href="${repo.html_url}"><img src="./assets/${fileName}?v=${cacheBuster}" width="410" alt="${escapeXml(repo.name)}" /></a>\n`;
     if (idx === 1 && validRepos.length > 2) {
       projectsMd += '</p>\n<p align="center">\n';
     }
@@ -289,7 +290,7 @@ async function main() {
   );
 
   const langSvgName = generateLanguagesSvg(langMap, totalBytes);
-  const languagesMd = langSvgName ? `<p align="center">\n  <img src="./assets/${langSvgName}" width="820" alt="Language Metrics" />\n</p>` : '_No metrics available._';
+  const languagesMd = langSvgName ? `<p align="center">\n  <img src="./assets/${langSvgName}?v=${cacheBuster}" width="820" alt="Language Metrics" />\n</p>` : '_No metrics available._';
 
   if (!fs.existsSync(README_PATH)) {
     console.error('Error: README.md does not exist.');
