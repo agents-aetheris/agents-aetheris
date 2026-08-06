@@ -55,12 +55,12 @@ I am deeply passionate about modern Backend Engineering and Cloud Architecture. 
 
 <!-- START_SECTION:latest_projects -->
 <p align="center">
-  <a href="https://github.com/muhananaufal/agents-aetheris"><img src="./assets/repo-0.svg?v=1786003161689" width="410" alt="agents-aetheris" /></a>
-  <a href="https://github.com/muhananaufal/thriftify"><img src="./assets/repo-1.svg?v=1786003161689" width="410" alt="thriftify" /></a>
+  <a href="https://github.com/muhananaufal/agents-aetheris"><img src="./assets/repo-0.svg?v=1786003803794" width="410" alt="agents-aetheris" /></a>
+  <a href="https://github.com/muhananaufal/thriftify"><img src="./assets/repo-1.svg?v=1786003803794" width="410" alt="thriftify" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/muhananaufal/nusaplay"><img src="./assets/repo-2.svg?v=1786003161689" width="410" alt="nusaplay" /></a>
-  <a href="https://github.com/muhananaufal/obsidian-rag"><img src="./assets/repo-3.svg?v=1786003161689" width="410" alt="obsidian-rag" /></a>
+  <a href="https://github.com/muhananaufal/nusaplay"><img src="./assets/repo-2.svg?v=1786003803794" width="410" alt="nusaplay" /></a>
+  <a href="https://github.com/muhananaufal/obsidian-rag"><img src="./assets/repo-3.svg?v=1786003803794" width="410" alt="obsidian-rag" /></a>
 </p>
 <!-- END_SECTION:latest_projects -->
 
@@ -95,7 +95,7 @@ I am deeply passionate about modern Backend Engineering and Cloud Architecture. 
 
 <!-- START_SECTION:language_stats -->
 <p align="center">
-  <img src="./assets/language-stats.svg?v=1786003161689" width="820" alt="Language Metrics" />
+  <img src="./assets/language-stats.svg?v=1786003803794" width="820" alt="Language Metrics" />
 </p>
 <!-- END_SECTION:language_stats -->
 
