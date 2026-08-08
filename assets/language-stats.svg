@@ -30,12 +30,12 @@
   
   <g clip-path="url(#barClip)">
     <rect x="20" y="52" width="780" height="14" fill="#21262d" />
-    <rect x="20" y="52" width="356.1174755041188" height="14" fill="#4F5D95" class="bar-grow" style="animation-delay: 0s;" />
-<rect x="376.1174755041188" y="52" width="153.96424303727622" height="14" fill="#3178c6" class="bar-grow" style="animation-delay: 0.1s;" />
-<rect x="530.081718541395" y="52" width="124.69437431634887" height="14" fill="#f1e05a" class="bar-grow" style="animation-delay: 0.2s;" />
-<rect x="654.776092857744" y="52" width="48.42714648849335" height="14" fill="#f7523f" class="bar-grow" style="animation-delay: 0.30000000000000004s;" />
-<rect x="703.2032393462373" y="52" width="32.18028600225558" height="14" fill="#563d7c" class="bar-grow" style="animation-delay: 0.4s;" />
-<rect x="735.3835253484929" y="52" width="18.172327210732288" height="14" fill="#00ADD8" class="bar-grow" style="animation-delay: 0.5s;" />
+    <rect x="20" y="52" width="349.25620933794187" height="14" fill="#4F5D95" class="bar-grow" style="animation-delay: 0s;" />
+<rect x="369.25620933794187" y="52" width="150.9978352527178" height="14" fill="#3178c6" class="bar-grow" style="animation-delay: 0.1s;" />
+<rect x="520.2540445906596" y="52" width="122.29190504578517" height="14" fill="#f1e05a" class="bar-grow" style="animation-delay: 0.2s;" />
+<rect x="642.5459496364448" y="52" width="47.49410735230485" height="14" fill="#f7523f" class="bar-grow" style="animation-delay: 0.30000000000000004s;" />
+<rect x="690.0400569887496" y="52" width="31.56027288087586" height="14" fill="#563d7c" class="bar-grow" style="animation-delay: 0.4s;" />
+<rect x="721.6003298696255" y="52" width="28.69978366693793" height="14" fill="#00ADD8" class="bar-grow" style="animation-delay: 0.5s;" />
 
   </g>
   
@@ -43,27 +43,27 @@
     
       <circle cx="25" cy="95" r="4" fill="#4F5D95" class="legend-fade" style="animation-delay: 0.5s;" />
       <text x="35" y="100" class="langName legend-fade" style="animation-delay: 0.5s;">PHP</text>
-      <text x="120" y="100" class="langPct legend-fade" style="animation-delay: 0.5s;">45.7%</text>
+      <text x="120" y="100" class="langPct legend-fade" style="animation-delay: 0.5s;">44.8%</text>
     
       <circle cx="220" cy="95" r="4" fill="#3178c6" class="legend-fade" style="animation-delay: 0.6s;" />
       <text x="230" y="100" class="langName legend-fade" style="animation-delay: 0.6s;">TypeScript</text>
-      <text x="315" y="100" class="langPct legend-fade" style="animation-delay: 0.6s;">19.7%</text>
+      <text x="315" y="100" class="langPct legend-fade" style="animation-delay: 0.6s;">19.4%</text>
     
       <circle cx="415" cy="95" r="4" fill="#f1e05a" class="legend-fade" style="animation-delay: 0.7s;" />
       <text x="425" y="100" class="langName legend-fade" style="animation-delay: 0.7s;">JavaScript</text>
-      <text x="510" y="100" class="langPct legend-fade" style="animation-delay: 0.7s;">16.0%</text>
+      <text x="510" y="100" class="langPct legend-fade" style="animation-delay: 0.7s;">15.7%</text>
     
       <circle cx="610" cy="95" r="4" fill="#f7523f" class="legend-fade" style="animation-delay: 0.8s;" />
       <text x="620" y="100" class="langName legend-fade" style="animation-delay: 0.8s;">Blade</text>
-      <text x="705" y="100" class="langPct legend-fade" style="animation-delay: 0.8s;">6.2%</text>
+      <text x="705" y="100" class="langPct legend-fade" style="animation-delay: 0.8s;">6.1%</text>
     
       <circle cx="25" cy="135" r="4" fill="#563d7c" class="legend-fade" style="animation-delay: 0.9s;" />
       <text x="35" y="140" class="langName legend-fade" style="animation-delay: 0.9s;">CSS</text>
-      <text x="120" y="140" class="langPct legend-fade" style="animation-delay: 0.9s;">4.1%</text>
+      <text x="120" y="140" class="langPct legend-fade" style="animation-delay: 0.9s;">4.0%</text>
     
       <circle cx="220" cy="135" r="4" fill="#00ADD8" class="legend-fade" style="animation-delay: 1s;" />
       <text x="230" y="140" class="langName legend-fade" style="animation-delay: 1s;">Go</text>
-      <text x="315" y="140" class="langPct legend-fade" style="animation-delay: 1s;">2.3%</text>
+      <text x="315" y="140" class="langPct legend-fade" style="animation-delay: 1s;">3.7%</text>
     
   </g>
 </svg>
