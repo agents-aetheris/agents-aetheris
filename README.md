@@ -56,12 +56,12 @@ I am deeply passionate about modern Backend Engineering and Cloud Architecture. 
 
 <!-- START_SECTION:latest_projects -->
 <p align="center">
-  <a href="https://github.com/muhananaufal/agents-aetheris"><img src="./assets/repo-0.svg?v=1786241341438" width="410" alt="agents-aetheris" /></a>
-  <a href="https://github.com/muhananaufal/portfolio"><img src="./assets/repo-1.svg?v=1786241341438" width="410" alt="portfolio" /></a>
+  <a href="https://github.com/muhananaufal/agents-aetheris"><img src="./assets/repo-0.svg?v=1786328176655" width="410" alt="agents-aetheris" /></a>
+  <a href="https://github.com/muhananaufal/portfolio"><img src="./assets/repo-1.svg?v=1786328176655" width="410" alt="portfolio" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/muhananaufal/go-aether"><img src="./assets/repo-2.svg?v=1786241341438" width="410" alt="go-aether" /></a>
-  <a href="https://github.com/muhananaufal/dev-control-center-tauri"><img src="./assets/repo-3.svg?v=1786241341438" width="410" alt="dev-control-center-tauri" /></a>
+  <a href="https://github.com/muhananaufal/go-aether"><img src="./assets/repo-2.svg?v=1786328176655" width="410" alt="go-aether" /></a>
+  <a href="https://github.com/muhananaufal/dev-control-center-tauri"><img src="./assets/repo-3.svg?v=1786328176655" width="410" alt="dev-control-center-tauri" /></a>
 </p>
 <!-- END_SECTION:latest_projects -->
 
@@ -94,7 +94,7 @@ I am deeply passionate about modern Backend Engineering and Cloud Architecture. 
 ### Codebase Metrics
 <!-- START_SECTION:language_stats -->
 <p align="center">
-  <img src="./assets/language-stats.svg?v=1786241341438" width="820" alt="Language Metrics" />
+  <img src="./assets/language-stats.svg?v=1786328176655" width="820" alt="Language Metrics" />
 </p>
 <!-- END_SECTION:language_stats -->
 
