@@ -5,7 +5,7 @@
 ██╔══██╗██╔════╝╚══██╔══╝██║  ██║██╔════╝██╔══██╗██║██╔════╝
 ███████║█████╗     ██║   ███████║█████╗  ██████╔╝██║███████╗
 ██╔══██║██╔══╝     ██║   ██╔══██║██╔══╝  ██╔══██╗██║╚════██║
-██║  ██║███████╗   ██║   ██║  ██║███████╗██║  ██║██║███████║
+██║  ██║███████╗   ██║   ██║  ██║███████╗██║  ██║██║███████╗
 ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚══════╝
 ```
 
@@ -86,30 +86,8 @@ TIMEZONE    = "Asia/Jakarta"
 ## `> ./stats --agent`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=agents-aetheris&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff&ring_color=7B2FBE">
-  <img src="https://github-readme-stats.vercel.app/api?username=agents-aetheris&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff&ring_color=7B2FBE" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=agents-aetheris&theme=dark&hide_border=true&background=0D1117&stroke=00FF41&ring=7B2FBE&fire=FF6B35&currStreakLabel=00FF41&sideLabels=ffffff&dates=888888" width="80%" />
 </picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=agents-aetheris&theme=dark&hide_border=true&background=0D1117&stroke=00FF41&ring=7B2FBE&fire=FF6B35&currStreakLabel=00FF41&sideLabels=ffffff&dates=888888">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=agents-aetheris&theme=dark&hide_border=true&background=0D1117&stroke=00FF41&ring=7B2FBE&fire=FF6B35&currStreakLabel=00FF41&sideLabels=ffffff&dates=888888" width="49%" />
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=agents-aetheris&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agents-aetheris&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff" width="40%" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-## `> tail -f /var/log/activity.log`
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=agents-aetheris&bg_color=0D1117&color=00FF41&line=7B2FBE&point=00D4FF&area=true&hide_border=true)](https://github.com/agents-aetheris)
 
 </div>
 
