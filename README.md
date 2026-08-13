@@ -86,7 +86,7 @@ TIMEZONE    = "Asia/Jakarta"
 ## `> ./stats --agent`
 
 <picture>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=agents-aetheris&theme=dark&hide_border=true&background=0D1117&stroke=00FF41&ring=7B2FBE&fire=FF6B35&currStreakLabel=00FF41&sideLabels=ffffff&dates=888888" width="80%" />
+  <img src="./streak-stats.svg" width="80%" />
 </picture>
 
 </div>

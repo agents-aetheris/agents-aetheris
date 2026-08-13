@@ -1,0 +1,38 @@
+name: Update Streak Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Berjalan otomatis tiap hari
+  workflow_dispatch:
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Generate streak stats
+        uses: be-next/github-streak-stats-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          token: ${{ secrets.MIRROR_SYNC_TOKEN }}
+          output-path: streak-stats.svg
+          theme: dark
+          hide_border: true
+          background: "0D1117"
+          stroke: "00FF41"
+          ring: "7B2FBE"
+          fire: "FF6B35"
+          currStreakLabel: "00FF41"
+          sideLabels: "ffffff"
+          dates: "888888"
+          
+      - name: Commit changes
+        run: |
+          git config user.name "Agent Bot"
+          git config user.email "agents.aetheris@gmail.com"
+          git add streak-stats.svg
+          git commit -m "docs: update streak stats SVG" || exit 0
+          git push
