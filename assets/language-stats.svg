@@ -30,12 +30,12 @@
   
   <g clip-path="url(#barClip)">
     <rect x="20" y="52" width="780" height="14" fill="#21262d" />
-    <rect x="20" y="52" width="349.25620933794187" height="14" fill="#4F5D95" class="bar-grow" style="animation-delay: 0s;" />
-<rect x="369.25620933794187" y="52" width="150.9978352527178" height="14" fill="#3178c6" class="bar-grow" style="animation-delay: 0.1s;" />
-<rect x="520.2540445906596" y="52" width="122.29190504578517" height="14" fill="#f1e05a" class="bar-grow" style="animation-delay: 0.2s;" />
-<rect x="642.5459496364448" y="52" width="47.49410735230485" height="14" fill="#f7523f" class="bar-grow" style="animation-delay: 0.30000000000000004s;" />
-<rect x="690.0400569887496" y="52" width="31.56027288087586" height="14" fill="#563d7c" class="bar-grow" style="animation-delay: 0.4s;" />
-<rect x="721.6003298696255" y="52" width="28.69978366693793" height="14" fill="#00ADD8" class="bar-grow" style="animation-delay: 0.5s;" />
+    <rect x="20" y="52" width="347.3782891825474" height="14" fill="#4F5D95" class="bar-grow" style="animation-delay: 0s;" />
+<rect x="367.3782891825474" y="52" width="150.18593307128046" height="14" fill="#3178c6" class="bar-grow" style="animation-delay: 0.1s;" />
+<rect x="517.5642222538279" y="52" width="121.63435214568813" height="14" fill="#f1e05a" class="bar-grow" style="animation-delay: 0.2s;" />
+<rect x="639.198574399516" y="52" width="47.238735682239394" height="14" fill="#f7523f" class="bar-grow" style="animation-delay: 0.30000000000000004s;" />
+<rect x="686.4373100817554" y="52" width="31.390576048097724" height="14" fill="#563d7c" class="bar-grow" style="animation-delay: 0.4s;" />
+<rect x="717.8278861298531" y="52" width="28.545467435006735" height="14" fill="#00ADD8" class="bar-grow" style="animation-delay: 0.5s;" />
 
   </g>
   
@@ -43,15 +43,15 @@
     
       <circle cx="25" cy="95" r="4" fill="#4F5D95" class="legend-fade" style="animation-delay: 0.5s;" />
       <text x="35" y="100" class="langName legend-fade" style="animation-delay: 0.5s;">PHP</text>
-      <text x="120" y="100" class="langPct legend-fade" style="animation-delay: 0.5s;">44.8%</text>
+      <text x="120" y="100" class="langPct legend-fade" style="animation-delay: 0.5s;">44.5%</text>
     
       <circle cx="220" cy="95" r="4" fill="#3178c6" class="legend-fade" style="animation-delay: 0.6s;" />
       <text x="230" y="100" class="langName legend-fade" style="animation-delay: 0.6s;">TypeScript</text>
-      <text x="315" y="100" class="langPct legend-fade" style="animation-delay: 0.6s;">19.4%</text>
+      <text x="315" y="100" class="langPct legend-fade" style="animation-delay: 0.6s;">19.3%</text>
     
       <circle cx="415" cy="95" r="4" fill="#f1e05a" class="legend-fade" style="animation-delay: 0.7s;" />
       <text x="425" y="100" class="langName legend-fade" style="animation-delay: 0.7s;">JavaScript</text>
-      <text x="510" y="100" class="langPct legend-fade" style="animation-delay: 0.7s;">15.7%</text>
+      <text x="510" y="100" class="langPct legend-fade" style="animation-delay: 0.7s;">15.6%</text>
     
       <circle cx="610" cy="95" r="4" fill="#f7523f" class="legend-fade" style="animation-delay: 0.8s;" />
       <text x="620" y="100" class="langName legend-fade" style="animation-delay: 0.8s;">Blade</text>

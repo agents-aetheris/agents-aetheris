@@ -43,7 +43,7 @@
     <path fill="none" stroke="#58a6ff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="M 22 36 L 27 31 L 34 31 L 34 43 L 22 43 Z" />
   </g>
   
-  <text x="42" y="40" class="title">agents-aetheris</text>
+  <text x="42" y="40" class="title">antigravity-config</text>
   
   <text x="22" y="68" class="desc">No description provided.</text>
   <text x="22" y="86" class="desc"></text>
@@ -51,6 +51,6 @@
   <circle cx="26" cy="113" r="5" fill="#012456" class="dot-anim" />
   <text x="36" y="117" class="meta">PowerShell</text>
   
-  <text x="110" y="117" class="meta">★ 3</text>
+  <text x="110" y="117" class="meta">★ 1</text>
   <text x="388" y="117" text-anchor="end" class="date">Updated: Aug 2026</text>
 </svg>
