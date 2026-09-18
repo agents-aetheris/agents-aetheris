@@ -41,7 +41,7 @@ jobs:
           token: ${{ secrets.MIRROR_SYNC_TOKEN }}
           output-path: streak-stats.svg
           theme: dark
-          hide_border: true
+          hide-border: true
           background: "0D1117"
           stroke: "00FF41"
           ring: "7B2FBE"
